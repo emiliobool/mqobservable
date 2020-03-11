@@ -1,0 +1,12 @@
+{
+    "name": "mqobservable",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {},
+    "license": "MIT",
+    "dependencies": {
+        "amqplib": "^0.5.5",
+        "rxjs": "^6.5.4",
+        "uuid": "^3.3.3"
+    }
+}
