@@ -2,7 +2,9 @@
     "name": "mqobservable",
     "version": "1.0.0",
     "main": "index.js",
-    "scripts": {},
+    "scripts": {
+        "test": "node test.js"
+    },
     "license": "MIT",
     "dependencies": {
         "amqplib": "^0.5.5",

@@ -1,2 +1,1 @@
-
-module.exports = require('./ampqp')
+module.exports = require('./amqp')
